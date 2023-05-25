@@ -45,10 +45,10 @@
       "type": "featured-collection",
       "settings": {
         "title": "ランキング",
-        "heading_size": "h0",
+        "heading_size": "h2",
         "description": "<p>選ばれた和菓子をご堪能ください。<\/p>",
         "show_description": false,
-        "description_style": "uppercase",
+        "description_style": "body",
         "collection": "all",
         "products_to_show": 4,
         "columns_desktop": 4,

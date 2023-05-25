@@ -1,5 +1,46 @@
 {
   "sections": {
+    "image_banner": {
+      "type": "image-banner",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "スライダー（カスタムセクション）",
+            "heading_size": "h0"
+          }
+        },
+        "button": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Shop all",
+            "button_link_1": "shopify:\/\/collections\/all",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "button"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/2023-05-25_10.22.44.png",
+        "image_2": "shopify:\/\/shop_images\/2023-05-25_10.22.53.png",
+        "image_overlay_opacity": 40,
+        "image_height": "large",
+        "desktop_content_position": "bottom-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "image_behavior": "ambient",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
@@ -85,9 +126,9 @@
         "columns_desktop": 4,
         "full_width": false,
         "show_view_all": true,
-        "view_all_style": "solid",
+        "view_all_style": "outline",
         "enable_desktop_slider": false,
-        "color_scheme": "background-1",
+        "color_scheme": "background-2",
         "image_ratio": "square",
         "show_secondary_image": false,
         "show_vendor": false,
@@ -99,52 +140,61 @@
         "padding_bottom": 36
       }
     },
-    "image_banner": {
+    "17fcaa26-bb91-4081-a439-8ddd8d4c9572": {
       "type": "image-banner",
       "blocks": {
-        "heading": {
+        "template--19118030422294__17fcaa26-bb91-4081-a439-8ddd8d4c9572-1684979088c3b3a998-0": {
           "type": "heading",
           "settings": {
-            "heading": "カスタムセクション",
-            "heading_size": "h0"
+            "heading": "注文の流れ（カスタムセクション）",
+            "heading_size": "h1"
           }
         },
-        "button": {
-          "type": "buttons",
+        "template--19118030422294__17fcaa26-bb91-4081-a439-8ddd8d4c9572-1684979088c3b3a998-1": {
+          "type": "text",
+          "disabled": true,
           "settings": {
-            "button_label_1": "Shop all",
-            "button_link_1": "shopify:\/\/collections\/all",
-            "button_style_secondary_1": true,
-            "button_label_2": "",
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "template--19118030422294__17fcaa26-bb91-4081-a439-8ddd8d4c9572-1684979088c3b3a998-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
             "button_link_2": "",
             "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
-        "heading",
-        "button"
+        "template--19118030422294__17fcaa26-bb91-4081-a439-8ddd8d4c9572-1684979088c3b3a998-0",
+        "template--19118030422294__17fcaa26-bb91-4081-a439-8ddd8d4c9572-1684979088c3b3a998-1",
+        "template--19118030422294__17fcaa26-bb91-4081-a439-8ddd8d4c9572-1684979088c3b3a998-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/2023-05-25_10.22.44.png",
-        "image_2": "shopify:\/\/shop_images\/2023-05-25_10.22.53.png",
-        "image_overlay_opacity": 40,
-        "image_height": "large",
-        "desktop_content_position": "bottom-center",
-        "show_text_box": false,
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
         "desktop_content_alignment": "center",
         "color_scheme": "background-1",
-        "image_behavior": "ambient",
+        "image_behavior": "none",
         "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": false
+        "stack_images_on_mobile": true,
+        "show_text_below": true
       }
     }
   },
   "order": [
+    "image_banner",
     "featured_collection",
     "1095c45b-1afb-468a-9898-96f4b709bd90",
     "869d6e52-498c-4bd3-973f-82313b71791c",
-    "image_banner"
+    "17fcaa26-bb91-4081-a439-8ddd8d4c9572"
   ]
 }

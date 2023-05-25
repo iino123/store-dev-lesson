@@ -117,7 +117,7 @@
       "type": "featured-collection",
       "settings": {
         "title": "新着",
-        "heading_size": "h1",
+        "heading_size": "h2",
         "description": "<p>平井屋では日々新しい和菓子に挑戦しています。ぜひご堪能あれ。<\/p>",
         "show_description": false,
         "description_style": "body",

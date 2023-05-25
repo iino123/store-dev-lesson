@@ -4,6 +4,41 @@
   "sections": {
     "footer": {
       "type": "footer",
+      "blocks": {
+        "25f1f893-eabc-4c25-861b-ccf7456a9208": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Quick links",
+            "menu": "footer"
+          }
+        },
+        "dfed6909-aaad-4e4e-8295-a99707f488ad": {
+          "type": "brand_information",
+          "settings": {
+            "show_social": true
+          }
+        },
+        "96413441-2608-4476-9770-4146b892ee42": {
+          "type": "text",
+          "settings": {
+            "heading": "Heading",
+            "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
+          }
+        },
+        "68758c28-4e1b-4624-8d06-726f6c1e8104": {
+          "type": "image",
+          "settings": {
+            "image_width": 100,
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "25f1f893-eabc-4c25-861b-ccf7456a9208",
+        "dfed6909-aaad-4e4e-8295-a99707f488ad",
+        "96413441-2608-4476-9770-4146b892ee42",
+        "68758c28-4e1b-4624-8d06-726f6c1e8104"
+      ],
       "settings": {
         "color_scheme": "background-1",
         "newsletter_enable": true,

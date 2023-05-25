@@ -48,7 +48,7 @@
         "heading_size": "h0",
         "description": "<p>選ばれた和菓子をご堪能ください。<\/p>",
         "show_description": false,
-        "description_style": "body",
+        "description_style": "subtitle",
         "collection": "all",
         "products_to_show": 4,
         "columns_desktop": 4,

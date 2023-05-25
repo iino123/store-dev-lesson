@@ -65,10 +65,56 @@
         "padding_top": 44,
         "padding_bottom": 36
       }
+    },
+    "1095c45b-1afb-468a-9898-96f4b709bd90": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--19118030422294__1095c45b-1afb-468a-9898-96f4b709bd90-1684976980b4ce4f07-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "夏にピッタリ",
+            "heading_size": "h1"
+          }
+        },
+        "template--19118030422294__1095c45b-1afb-468a-9898-96f4b709bd90-1684976980b4ce4f07-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>桃の栗まんじゅうが新発売です。<\/p><p>冷えた麦茶との相性がとても良く、インスタ映えもします。<\/p><p>お写真を撮ってぜひ、楽しんでお食事ください。<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--19118030422294__1095c45b-1afb-468a-9898-96f4b709bd90-1684976980b4ce4f07-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "商品詳細を見る",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19118030422294__1095c45b-1afb-468a-9898-96f4b709bd90-1684976980b4ce4f07-0",
+        "template--19118030422294__1095c45b-1afb-468a-9898-96f4b709bd90-1684976980b4ce4f07-1",
+        "template--19118030422294__1095c45b-1afb-468a-9898-96f4b709bd90-1684976980b4ce4f07-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/2023-05-25_10.09.58.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "image_banner",
-    "featured_collection"
+    "featured_collection",
+    "1095c45b-1afb-468a-9898-96f4b709bd90"
   ]
 }

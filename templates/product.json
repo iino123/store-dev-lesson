@@ -46,7 +46,33 @@
         "share": {
           "type": "share",
           "settings": {
-            "share_label": "Share"
+            "share_label": "共有する"
+          }
+        },
+        "ea6e1911-1fdb-430d-9edf-9e21a0562dc4": {
+          "type": "inventory",
+          "settings": {
+            "text_style": "body",
+            "inventory_threshold": 5,
+            "show_inventory_quantity": true
+          }
+        },
+        "640c9bac-cd3e-45b6-a370-2a5e92cd99d2": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "map_pin",
+            "content": "<p>っっっっd<\/p>",
+            "page": "contact"
+          }
+        },
+        "ca444c72-67b5-4efb-8f25-f29d4a66d1e7": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "content": "",
+            "page": ""
           }
         }
       },
@@ -58,7 +84,10 @@
         "quantity_selector",
         "buy_buttons",
         "description",
-        "share"
+        "share",
+        "ea6e1911-1fdb-430d-9edf-9e21a0562dc4",
+        "640c9bac-cd3e-45b6-a370-2a5e92cd99d2",
+        "ca444c72-67b5-4efb-8f25-f29d4a66d1e7"
       ],
       "settings": {
         "enable_sticky_info": true,

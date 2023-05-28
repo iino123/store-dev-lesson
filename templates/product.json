@@ -74,6 +74,13 @@
             "content": "",
             "page": ""
           }
+        },
+        "5640ad0a-90f2-4fe9-9f7b-b4c95fbddbbc": {
+          "type": "text",
+          "settings": {
+            "text": "＃ココア　＃フランス",
+            "text_style": "body"
+          }
         }
       },
       "block_order": [
@@ -87,7 +94,8 @@
         "share",
         "ea6e1911-1fdb-430d-9edf-9e21a0562dc4",
         "640c9bac-cd3e-45b6-a370-2a5e92cd99d2",
-        "ca444c72-67b5-4efb-8f25-f29d4a66d1e7"
+        "ca444c72-67b5-4efb-8f25-f29d4a66d1e7",
+        "5640ad0a-90f2-4fe9-9f7b-b4c95fbddbbc"
       ],
       "settings": {
         "enable_sticky_info": true,

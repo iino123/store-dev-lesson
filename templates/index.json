@@ -188,6 +188,67 @@
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
+    },
+    "c203b879-bbc4-404d-aae0-f0c52166743d": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--19118030422294__c203b879-bbc4-404d-aae0-f0c52166743d-1685258056d9d78422-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "ここここ",
+            "icon": "leaf",
+            "row_content": "<p>いぅ絵ygフィやgwfぃやwgfぃあwgfぃやgf<\/p>",
+            "page": ""
+          }
+        },
+        "template--19118030422294__c203b879-bbc4-404d-aae0-f0c52166743d-1685258056d9d78422-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "template--19118030422294__c203b879-bbc4-404d-aae0-f0c52166743d-1685258056d9d78422-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "template--19118030422294__c203b879-bbc4-404d-aae0-f0c52166743d-1685258056d9d78422-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19118030422294__c203b879-bbc4-404d-aae0-f0c52166743d-1685258056d9d78422-0",
+        "template--19118030422294__c203b879-bbc4-404d-aae0-f0c52166743d-1685258056d9d78422-1",
+        "template--19118030422294__c203b879-bbc4-404d-aae0-f0c52166743d-1685258056d9d78422-2",
+        "template--19118030422294__c203b879-bbc4-404d-aae0-f0c52166743d-1685258056d9d78422-3"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Collapsible content",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -195,6 +256,7 @@
     "featured_collection",
     "1095c45b-1afb-468a-9898-96f4b709bd90",
     "869d6e52-498c-4bd3-973f-82313b71791c",
-    "17fcaa26-bb91-4081-a439-8ddd8d4c9572"
+    "17fcaa26-bb91-4081-a439-8ddd8d4c9572",
+    "c203b879-bbc4-404d-aae0-f0c52166743d"
   ]
 }

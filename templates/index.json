@@ -99,13 +99,13 @@
         "template--19118030422294__1095c45b-1afb-468a-9898-96f4b709bd90-1684976980b4ce4f07-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/2023-05-25_10.09.58.png",
+        "image": "shopify:\/\/shop_images\/Mask_group.png",
         "height": "adapt",
-        "desktop_image_width": "medium",
+        "desktop_image_width": "small",
         "layout": "image_first",
         "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
-        "content_layout": "overlap",
+        "content_layout": "no-overlap",
         "color_scheme": "background-1",
         "image_behavior": "none",
         "mobile_content_alignment": "left",

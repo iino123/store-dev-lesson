@@ -286,6 +286,50 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "edffb4dd-461b-4d34-805a-ce779a39119f": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--19118030422294__edffb4dd-461b-4d34-805a-ce779a39119f-16855900322769caac-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h1"
+          }
+        },
+        "template--19118030422294__edffb4dd-461b-4d34-805a-ce779a39119f-16855900322769caac-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--19118030422294__edffb4dd-461b-4d34-805a-ce779a39119f-16855900322769caac-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19118030422294__edffb4dd-461b-4d34-805a-ce779a39119f-16855900322769caac-0",
+        "template--19118030422294__edffb4dd-461b-4d34-805a-ce779a39119f-16855900322769caac-1",
+        "template--19118030422294__edffb4dd-461b-4d34-805a-ce779a39119f-16855900322769caac-2"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -295,6 +339,7 @@
     "869d6e52-498c-4bd3-973f-82313b71791c",
     "17fcaa26-bb91-4081-a439-8ddd8d4c9572",
     "c203b879-bbc4-404d-aae0-f0c52166743d",
-    "3b062a4a-5b07-4bc6-a4c4-38270453977a"
+    "3b062a4a-5b07-4bc6-a4c4-38270453977a",
+    "edffb4dd-461b-4d34-805a-ce779a39119f"
   ]
 }
